@@ -41,7 +41,7 @@ section {
   width: calc(100% / 3);
 }
 
-.clearfix::after {
+.clearfix::after {  /* didn't need this  */
   display: block;
 }
 
